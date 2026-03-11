@@ -23,7 +23,7 @@
  * @author Developer
  * @version 1.0
  */
-public class Main {
+public class main {
 
     /**
      * Application entry point.
